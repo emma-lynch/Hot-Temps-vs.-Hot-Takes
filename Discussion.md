@@ -8,4 +8,7 @@ Potential Bias:
 
   Correlation ≠ Causation: Strong associations do not confirm cause and effect. 
 
-Recommendations for Future Work: Using multiple social platforms for a more representative sample. 
+Recommendations for Future Updates: 
+  Broadening data sources: Using multiple social platforms for a more representative sample. Comparing platform sentiment by platform to check if Twitter is more negative of extreme. 
+
+  Current data collection: Use Selenium to scrape Twitter and other platforms to get constantly up to date data.
